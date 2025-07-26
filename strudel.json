@@ -1,5 +1,5 @@
 {
-  "walton": "https://raw.githubusercontent.com/sigilbyte/walton/main/",
+  "_base": "https://raw.githubusercontent.com/sigilbyte/walton/main/",
   "wal_drones": [
     "wal_drones/DRONE_7.wav",
     "wal_drones/DRONE_15.wav",
